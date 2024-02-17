@@ -1,0 +1,9 @@
+ul a img {
+    width: 125px;
+}
+
+@media (min-width: 992px) {
+    ul a img {
+        width: 135px;
+    }
+}
